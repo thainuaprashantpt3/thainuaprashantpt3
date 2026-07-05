@@ -1,206 +1,166 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Thainua;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prashant%20Thainua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+web+apps;React.js+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/prashant-thainua/"><img src="https://img.shields.io/badge/LinkedIn-2C5364?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thainuaprashant.pt3@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=thainuaprashantpt3&label=Profile+Views&color=2C5364&style=flat-square" alt="profile views" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thainuaprashantpt3&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/prashant-thainua/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thainuaprashant.pt3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+## 📌 About Me
 
-## 👋 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```javascript
-const prashantThainua = {
-    role: "Full Stack Developer",
-    status: "Fresher / Early Career",
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-    currentFocus: "Building solid, production-style full-stack projects",
-    learning: ["TypeScript", "Next.js", "Docker", "AWS", "System Design Basics"],
-    funFact: "Debugs better after chai than coffee ☕",
-    motto: "Consistency beats intensity"
-};
+I'm a **Full Stack Developer** focused on building clean, functional web applications using the **MERN stack**. I enjoy turning ideas into working products and writing code that's easy to read and maintain.
+
+- 🔭 Currently building projects with **React, Node.js & Express**
+- 🌱 Currently learning **TypeScript, Next.js & Docker**
+- 🎯 2026 Goal — land my first role as a Full Stack Developer
+- 💬 Ask me about **React, Node.js, REST APIs, MongoDB**
+- 📫 Reach me at **thainuaprashant.pt3@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Prashant Thainua
+role: Full Stack Developer
+focus: MERN Stack
+learning: [TypeScript, Docker, AWS]
+motto: "Consistency beats intensity"
 ```
 
-- 🔭 Currently building full-stack projects using the **MERN stack**
-- 🌱 Currently learning **TypeScript, Next.js, Docker & AWS fundamentals**
-- 💡 Focused on writing clean, readable, and maintainable code
-- 🎯 2026 Goal: Land my first full-time role as a Full Stack Developer
-- 📫 Reach me at: **thainuaprashant.pt3@gmail.com**
-- 💬 Ask me about: **React, Node.js, Express, REST APIs, MongoDB/MySQL**
+</td>
+</tr>
+</table>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<div align="center">
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman&theme=dark" />
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+</div>
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<br/>
 
-**Learning / Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thainuaprashantpt3&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364&text_color=c9d1d9" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thainuaprashantpt3&theme=tokyo-night&hide_border=true" />
-</p>
+<br/>
 
-> 🐍 **Want the animated contribution snake?** Add the GitHub Actions workflow from [Platane/snk](https://github.com/Platane/snk) to your repo — it auto-generates on every push. I can set this up for you if you'd like.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thainuaprashantpt3&theme=dark&hide_border=true&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=c9d1d9" />
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thainuaprashantpt3&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 [Project Name 1 — e.g. Employee Management System]
-Short one-line description of what the project does and the problem it solves.
+<table>
+<tr>
+<td width="50%">
 
-**Key Features**
-- ✅ Feature one
-- ✅ Feature two
-- ✅ Feature three
+### 🧑‍💼 Project Name 1
+One-line description of what it does and the problem it solves.
 
-**Tech Used:** React · Node.js · Express · MongoDB
+**Tech:** React · Node.js · Express · MongoDB
 
-🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](https://github.com/thainuaprashantpt3/REPO_NAME_1)
+[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_1)
 
----
+</td>
+<td width="50%">
 
-### 📊 [Project Name 2 — e.g. Dashboard / Analytics App]
-Short one-line description.
+### 📊 Project Name 2
+One-line description of what it does and the problem it solves.
 
-**Key Features**
-- ✅ Feature one
-- ✅ Feature two
+**Tech:** React · REST API · Chart.js
 
-**Tech Used:** React · REST API · Chart.js
+[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_2)
 
-🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](https://github.com/thainuaprashantpt3/REPO_NAME_2)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🔐 Project Name 3
+One-line description of what it does and the problem it solves.
 
-### 🔐 [Project Name 3 — e.g. Auth System]
-Short one-line description.
+**Tech:** Node.js · Express · JWT · MongoDB
 
-**Key Features**
-- ✅ JWT Authentication
-- ✅ Password Hashing (bcrypt)
-- ✅ Protected Routes
+[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_3)
 
-**Tech Used:** Node.js · Express · MongoDB · JWT
+</td>
+<td width="50%">
 
-🔗 [Repository](https://github.com/thainuaprashantpt3/REPO_NAME_3)
+### 🎨 Project Name 4
+One-line description of what it does and the problem it solves.
 
-📌 [View All Repositories →](https://github.com/thainuaprashantpt3?tab=repositories)
+**Tech:** React · Tailwind CSS
 
----
+[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_4)
 
-## 🗺️ Learning Roadmap 2026
+</td>
+</tr>
+</table>
 
-- [x] Master React.js fundamentals
-- [x] Build REST APIs with Node.js & Express
-- [ ] Become proficient in TypeScript
-- [ ] Learn Next.js in depth
-- [ ] Get comfortable with Docker
-- [ ] Deploy an app on AWS
-- [ ] Study System Design basics
-- [ ] Make my first open-source contribution
-- [ ] Build one complete project end-to-end and deploy it
+<div align="center">
 
----
+[📌 View All Repositories →](https://github.com/thainuaprashantpt3?tab=repositories)
 
-## 🎯 Current Goals
+</div>
 
-- Strengthen backend & database design skills
-- Build 2–3 solid full-stack projects for my portfolio
-- Get comfortable with Git workflows & collaboration
-- Improve problem-solving (DSA) consistency
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
 
-## ⚡ Fun Facts
+## 🗺️ Learning Roadmap
 
-- 🧠 I debug better with chai in hand
-- 🌙 Most productive coding hours: late night
-- 🏗️ I enjoy converting Figma designs into working UI
-- 📚 Currently reading up on system design basics
+<table>
+<tr><td>✅ React.js fundamentals</td><td>✅ REST APIs with Node & Express</td></tr>
+<tr><td>⬜ TypeScript</td><td>⬜ Next.js in depth</td></tr>
+<tr><td>⬜ Docker</td><td>⬜ Deploy on AWS</td></tr>
+<tr><td>⬜ System Design basics</td><td>⬜ First open-source contribution</td></tr>
+</table>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prashant-thainua/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thainuaprashant.pt3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>💡 "First, solve the problem. Then, write the code." — John Johnson</i></p>
+### 🤝 Let's Connect
 
-<p align="center">⭐ Thanks for visiting my profile — feel free to explore my repositories!</p>
+<a href="https://www.linkedin.com/in/prashant-thainua/"><img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thainuaprashant.pt3@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"First, solve the problem. Then, write the code." — John Johnson</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+</div>
