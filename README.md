@@ -1,102 +1,24 @@
-<div align="center">
-
+````markdown
 # Prashant Thainua
 
 ### Full Stack Developer
 
-**React.js · Node.js · Express.js · MySQL · MongoDB**
+Building complete web applications from **UI → API → Database**
 
-I build responsive web applications, REST APIs, authentication systems, and database-driven solutions.
-
-<p>
-<a href="https://github.com/thainuaprashantpt3">GitHub</a> ·
-<a href="https://www.linkedin.com/in/prashant-thainua/">LinkedIn</a> ·
-<a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
-</p>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://prashant-portfolio-iota-nine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/thainuaprashantpt3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-thainua/)
+[![Email](https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thainuaprashant.pt3@gmail.com)
 
 ---
 
-## About Me
+## About
 
-I'm a **Full Stack Developer** with hands-on experience developing web applications across frontend, backend, and database layers.
+I'm a **Full Stack Developer** focused on building practical, database-driven web applications.
 
-My primary stack is **React.js, Node.js, Express.js, MySQL, and MongoDB**. I have practical experience with REST APIs, JWT authentication, role-based access control, CRUD operations, database design, API integration, validation, and responsive UI development.
+I work across the complete application stack — from responsive React interfaces to REST APIs, authentication, business logic, and relational databases.
 
-I completed a **Software Developer Internship at BCS Infallible Technology**, where I worked on real application workflows across React, Node.js, Express.js, MySQL, and MongoDB.
-
----
-
-## Experience
-
-### Software Developer Intern
-
-**BCS Infallible Technology · Agra**
-
-* Developed full-stack features using **React.js, Node.js, Express.js, MySQL, and MongoDB**.
-* Built and integrated **RESTful APIs** for application workflows.
-* Implemented **JWT authentication and role-based access control**.
-* Developed CRUD functionality, forms, dashboards, filtering, and pagination.
-* Worked with relational database structures, queries, joins, and data relationships.
-* Integrated React frontends with backend APIs.
-* Tested and documented APIs using **Postman**.
-* Used **Git and GitHub** for version control and development.
-
----
-
-## Internship Project
-
-### Attendance Management System
-
-A full-stack application for managing employee attendance, leave records, monthly summaries, and administrative workflows.
-
-**Features**
-
-* Employee management
-* Attendance tracking
-* Leave management
-* Monthly attendance reports
-* Attendance calculations
-* Salary-slip generation
-* REST API integration
-* MySQL database management
-
-**Tech:** `React.js` `Node.js` `Express.js` `MySQL`
-
----
-
-## Projects
-
-### Team Task Manager
-
-A full-stack task management application with role-based access for managing projects, employees, and tasks.
-
-**Features:** Authentication · Admin/Member roles · Task assignment · Progress tracking · Daily progress logs
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
-
-[View Repository](https://github.com/thainuaprashantpt3/team-task-manager) · [Live Application](https://team-task-manager-production-0b65.up.railway.app/)
-
----
-
-### School Management System
-
-A full-stack management application demonstrating authentication, protected routes, CRUD operations, search, filtering, and database integration.
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-[View Repository](https://github.com/thainuaprashantpt3/student)
-
----
-
-### Personal Portfolio
-
-A responsive portfolio application showcasing my skills, experience, projects, and contact information.
-
-**Tech:** `React` `Vite` `Node.js` `Express.js`
-
-[View Repository](https://github.com/thainuaprashantpt3/prashant-portfolio)
+**15+ REST endpoints · JWT Authentication · RBAC · MySQL relational design · React + Node.js**
 
 ---
 
@@ -104,64 +26,168 @@ A responsive portfolio application showcasing my skills, experience, projects, a
 
 **Frontend**
 
-`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS` · `React Router`
+`React.js` · `JavaScript ES6+` · `HTML5` · `CSS3`
 
 **Backend**
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Middleware` · `MVC`
+`Node.js` · `Express.js` · `REST APIs` · `JWT`· `Middleware`
 
-**Database**
+**Databases**
 
-`MySQL` · `MongoDB` · `Mongoose` · `SQL`
+`MySQL` · `MongoDB` · `Relational Database Design`
 
 **Tools**
 
-`Git` · `GitHub` · `Postman` · `VS Code` · `Vercel` · `Render` · `Railway`
+`Git` · `GitHub` · `Postman` · `Vercel` · `Render`
 
 ---
 
-## What I Focus On
+## Featured Projects
 
-* Full Stack Web Development
-* REST API Development
-* Authentication & Authorization
-* Role-Based Access Control
-* Database Design
-* Frontend ↔ Backend Integration
-* CRUD Applications
-* API Validation & Error Handling
-* Responsive Web Interfaces
+### Team Task Manager
 
----
+A full-stack application for managing teams, members, and tasks with authentication and role-based access.
 
-## Education
+**React.js · Node.js · Express.js · MongoDB**
 
-**Master of Computer Applications (MCA)**
-Dr. A.P.J. Abdul Kalam Technical University · 2025
+- Authentication and protected routes
+- Role-based access control
+- Team and member management
+- Task creation and workflow management
+- REST API architecture
 
-**Bachelor of Computer Applications (BCA)**
-Dr. Bhimrao Ambedkar University · 2021
+**[Live Demo](https://team-task-manager-production-0b65.up.railway.app/)** · **[Source Code](https://github.com/thainuaprashantpt3/team-task-manager)**
 
 ---
 
-## GitHub
+### Attendance Management System
 
-<div align="center">
+Full-stack employee attendance and leave management system developed during my software development internship.
 
-<img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+**React.js · Node.js · Express.js · MySQL · JWT**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&hide_border=true&theme=github_dark" height="165" />
-
-</div>
+- Employee attendance and leave workflows
+- Monthly attendance reporting
+- Salary-slip calculations
+- JWT authentication and role-based authorization
+- Relational database design
+- REST API validation and structured error handling
 
 ---
 
-<div align="center">
+### School Management System
 
-### Let's Connect
+Database-driven application for managing student information and CRUD workflows.
 
-**Open to Full Stack Developer and Software Engineer opportunities.**
+**Node.js · Express.js · MySQL**
 
-<a href="https://www.linkedin.com/in/prashant-thainua/">LinkedIn</a> · <a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
+**[Source Code](https://github.com/thainuaprashantpt3/student)**
 
-</div>
+---
+
+### Developer Portfolio
+
+My personal portfolio showcasing my projects, technical skills, experience, and development work.
+
+**React.js · Node.js · Express.js**
+
+**[Live Portfolio](https://prashant-portfolio-iota-nine.vercel.app/)** · **[Source Code](https://github.com/thainuaprashantpt3/prashant-portfolio)**
+
+---
+
+## Experience
+
+### Software Developer Intern
+**BCS Infallible Technology · Jun 2025 – Jan 2026**
+
+Worked across frontend, backend, and database layers of full-stack applications.
+
+- Developed **15+ RESTful API endpoints** using Node.js and Express.js
+- Implemented JWT authentication and role-based route protection
+- Designed normalized MySQL schemas for application workflows
+- Built middleware for authentication, validation, and error handling
+- Integrated React interfaces with backend APIs and asynchronous data flows
+- Tested and documented APIs using Postman
+
+---
+
+## How I Build
+
+```text
+                    USER
+                      │
+                      ▼
+              ┌───────────────┐
+              │   React.js    │
+              │   UI / State  │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │   REST API    │
+              │ Node + Express│
+              └───────┬───────┘
+                      │
+              ┌───────▼───────┐
+              │ Auth / RBAC   │
+              │ Business Logic│
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ MySQL /       │
+              │ MongoDB       │
+              └───────────────┘
+````
+
+I focus on:
+
+**Reusable UI · Clean APIs · Secure Authentication · Structured Data · Maintainable Code**
+
+---
+
+## Currently Focused On
+
+```javascript
+const developer = {
+  role: "Full Stack Developer",
+
+  frontend: ["React.js", "JavaScript"],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  focus: [
+    "Full Stack Applications",
+    "Backend Architecture",
+    "Authentication & RBAC",
+    "Database Design"
+  ]
+};
+```
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3\&show_icons=true\&hide_border=true\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3\&layout=compact\&hide_border=true\&theme=transparent)
+
+---
+
+## Let's Build Something Useful
+
+I'm open to **Full Stack Developer** and **Software Engineer** opportunities.
+
+**[View Portfolio](https://prashant-portfolio-iota-nine.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/prashant-thainua/)** · **[Email Me](mailto:thainuaprashant.pt3@gmail.com)**
+
+```
