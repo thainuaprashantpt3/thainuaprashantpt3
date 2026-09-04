@@ -105,7 +105,7 @@ My developer portfolio showcasing my projects, technical skills, experience, and
 
 ## Experience
 
-### Full Stack / Software Developer Intern
+### Software Developer Intern
 
 **BCS Infallible Technology · Jun 2025 – Jan 2026**
 
@@ -148,3 +148,63 @@ Worked across frontend, backend, and database layers of full-stack applications.
        ┌─────────────────┐
        │ MySQL / MongoDB │
        └─────────────────┘
+
+const developer = {
+  role: "Full Stack Developer",
+
+  frontend: [
+    "React.js",
+    "JavaScript ES6+"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  architecture: [
+    "MVC",
+    "Middleware",
+    "RBAC"
+  ],
+
+  goal: "Build scalable and production-ready web applications"
+};
+
+
+---
+
+## A Little About How I Think
+
+> **Good software isn't just about making things work.  
+> It's about making them understandable, maintainable, and useful.**
+
+I try to approach every project with three questions:
+
+**Does it solve the problem?**  
+**Can another developer understand it?**  
+**Can it grow without becoming difficult to maintain?**
+
+That's the standard I'm working toward with every application I build.
+
+---
+
+## Let's Build Something Useful
+
+I'm open to **Full Stack Developer** and **Software Engineer** opportunities.
+
+<p align="left">
+  <a href="https://prashant-portfolio-iota-nine.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/thainuaprashantpt3">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/prashant-thainua/">LinkedIn</a>
+  ·
+  <a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
+</p>
