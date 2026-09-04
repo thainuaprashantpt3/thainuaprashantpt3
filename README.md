@@ -46,7 +46,7 @@ I work across the complete development stack — creating responsive React inter
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 
 ---
 
@@ -78,7 +78,7 @@ A full-stack employee attendance and leave management system developed during my
 - Monthly attendance reports
 - Salary-slip calculations
 - JWT authentication and role-based authorization
-- Relational database design with foreign keys
+- Relational database design 
 - API validation and structured error handling
 
 ---
@@ -199,15 +199,21 @@ I try to approach every project with three questions:
 **Can another developer understand it?**
 **Can it grow without becoming difficult to maintain?**
 
-That's the standard I'm working toward with every application I build.
+I'm working toward with every application I build.
 
 ---
 
 ## GitHub Activity
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <a href="https://github.com/thainuaprashantpt3">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Building • Learning • Improving</b>
 </p>
 
 ---
