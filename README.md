@@ -32,21 +32,21 @@ I work across the complete development stack — creating responsive React inter
 
 ## Tech Stack
 
-<p align="left">
-
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 
 ---
 
@@ -148,7 +148,15 @@ Worked across frontend, backend, and database layers of full-stack applications.
        ┌─────────────────┐
        │ MySQL / MongoDB │
        └─────────────────┘
+````
 
+**Reusable Components · Clean APIs · Secure Authentication · Structured Data · Maintainable Code**
+
+---
+
+## Currently Focused On
+
+```javascript
 const developer = {
   role: "Full Stack Developer",
 
@@ -176,22 +184,31 @@ const developer = {
 
   goal: "Build scalable and production-ready web applications"
 };
-
+```
 
 ---
 
 ## A Little About How I Think
 
-> **Good software isn't just about making things work.  
+> **Good software isn't just about making things work.
 > It's about making them understandable, maintainable, and useful.**
 
 I try to approach every project with three questions:
 
-**Does it solve the problem?**  
-**Can another developer understand it?**  
+**Does it solve the problem?**
+**Can another developer understand it?**
 **Can it grow without becoming difficult to maintain?**
 
 That's the standard I'm working toward with every application I build.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
 
 ---
 
@@ -208,3 +225,5 @@ I'm open to **Full Stack Developer** and **Software Engineer** opportunities.
   ·
   <a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
 </p>
+
+
