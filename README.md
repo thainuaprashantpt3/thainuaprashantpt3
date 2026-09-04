@@ -1,166 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prashant%20Thainua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%" />
+# Prashant Thainua
 
-<br/>
+### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+web+apps;React.js+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+shipping" alt="Typing SVG" />
+**React.js · Node.js · Express.js · MySQL · MongoDB**
 
-<br/><br/>
+I build responsive web applications, REST APIs, authentication systems, and database-driven solutions.
 
-<a href="https://www.linkedin.com/in/prashant-thainua/"><img src="https://img.shields.io/badge/LinkedIn-2C5364?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:thainuaprashant.pt3@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=thainuaprashantpt3&label=Profile+Views&color=2C5364&style=flat-square" alt="profile views" />
-
-</div>
-
-<br/>
-
-## 📌 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a **Full Stack Developer** focused on building clean, functional web applications using the **MERN stack**. I enjoy turning ideas into working products and writing code that's easy to read and maintain.
-
-- 🔭 Currently building projects with **React, Node.js & Express**
-- 🌱 Currently learning **TypeScript, Next.js & Docker**
-- 🎯 2026 Goal — land my first role as a Full Stack Developer
-- 💬 Ask me about **React, Node.js, REST APIs, MongoDB**
-- 📫 Reach me at **thainuaprashant.pt3@gmail.com**
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-name: Prashant Thainua
-role: Full Stack Developer
-focus: MERN Stack
-learning: [TypeScript, Docker, AWS]
-motto: "Consistency beats intensity"
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman&theme=dark" />
+<p>
+<a href="https://github.com/thainuaprashantpt3">GitHub</a> ·
+<a href="https://www.linkedin.com/in/prashant-thainua/">LinkedIn</a> ·
+<a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
+</p>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
+## About Me
 
-## 📊 GitHub Analytics
+I'm a **Full Stack Developer** with hands-on experience developing web applications across frontend, backend, and database layers.
+
+My primary stack is **React.js, Node.js, Express.js, MySQL, and MongoDB**. I have practical experience with REST APIs, JWT authentication, role-based access control, CRUD operations, database design, API integration, validation, and responsive UI development.
+
+I completed a **Software Developer Internship at BCS Infallible Technology**, where I worked on real application workflows across React, Node.js, Express.js, MySQL, and MongoDB.
+
+---
+
+## Experience
+
+### Software Developer Intern
+
+**BCS Infallible Technology · Agra**
+
+* Developed full-stack features using **React.js, Node.js, Express.js, MySQL, and MongoDB**.
+* Built and integrated **RESTful APIs** for application workflows.
+* Implemented **JWT authentication and role-based access control**.
+* Developed CRUD functionality, forms, dashboards, filtering, and pagination.
+* Worked with relational database structures, queries, joins, and data relationships.
+* Integrated React frontends with backend APIs.
+* Tested and documented APIs using **Postman**.
+* Used **Git and GitHub** for version control and development.
+
+---
+
+## Internship Project
+
+### Attendance Management System
+
+A full-stack application for managing employee attendance, leave records, monthly summaries, and administrative workflows.
+
+**Features**
+
+* Employee management
+* Attendance tracking
+* Leave management
+* Monthly attendance reports
+* Attendance calculations
+* Salary-slip generation
+* REST API integration
+* MySQL database management
+
+**Tech:** `React.js` `Node.js` `Express.js` `MySQL`
+
+---
+
+## Projects
+
+### Team Task Manager
+
+A full-stack task management application with role-based access for managing projects, employees, and tasks.
+
+**Features:** Authentication · Admin/Member roles · Task assignment · Progress tracking · Daily progress logs
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+[View Repository](https://github.com/thainuaprashantpt3/team-task-manager) · [Live Application](https://team-task-manager-production-0b65.up.railway.app/)
+
+---
+
+### School Management System
+
+A full-stack management application demonstrating authentication, protected routes, CRUD operations, search, filtering, and database integration.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+[View Repository](https://github.com/thainuaprashantpt3/student)
+
+---
+
+### Personal Portfolio
+
+A responsive portfolio application showcasing my skills, experience, projects, and contact information.
+
+**Tech:** `React` `Vite` `Node.js` `Express.js`
+
+[View Repository](https://github.com/thainuaprashantpt3/prashant-portfolio)
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS` · `React Router`
+
+**Backend**
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Middleware` · `MVC`
+
+**Database**
+
+`MySQL` · `MongoDB` · `Mongoose` · `SQL`
+
+**Tools**
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `Vercel` · `Render` · `Railway`
+
+---
+
+## What I Focus On
+
+* Full Stack Web Development
+* REST API Development
+* Authentication & Authorization
+* Role-Based Access Control
+* Database Design
+* Frontend ↔ Backend Integration
+* CRUD Applications
+* API Validation & Error Handling
+* Responsive Web Interfaces
+
+---
+
+## Education
+
+**Master of Computer Applications (MCA)**
+Dr. A.P.J. Abdul Kalam Technical University · 2025
+
+**Bachelor of Computer Applications (BCA)**
+Dr. Bhimrao Ambedkar University · 2021
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=thainuaprashantpt3&show_icons=true&hide_border=true&theme=github_dark" height="165" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thainuaprashantpt3&theme=dark&hide_border=true&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainuaprashantpt3&layout=compact&hide_border=true&theme=github_dark" height="165" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧑‍💼 Project Name 1
-One-line description of what it does and the problem it solves.
-
-**Tech:** React · Node.js · Express · MongoDB
-
-[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_1)
-
-</td>
-<td width="50%">
-
-### 📊 Project Name 2
-One-line description of what it does and the problem it solves.
-
-**Tech:** React · REST API · Chart.js
-
-[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_2)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Project Name 3
-One-line description of what it does and the problem it solves.
-
-**Tech:** Node.js · Express · JWT · MongoDB
-
-[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_3)
-
-</td>
-<td width="50%">
-
-### 🎨 Project Name 4
-One-line description of what it does and the problem it solves.
-
-**Tech:** React · Tailwind CSS
-
-[🔗 Repository](https://github.com/thainuaprashantpt3/REPO_NAME_4)
-
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
-[📌 View All Repositories →](https://github.com/thainuaprashantpt3?tab=repositories)
+### Let's Connect
 
-</div>
+**Open to Full Stack Developer and Software Engineer opportunities.**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
-
-## 🗺️ Learning Roadmap
-
-<table>
-<tr><td>✅ React.js fundamentals</td><td>✅ REST APIs with Node & Express</td></tr>
-<tr><td>⬜ TypeScript</td><td>⬜ Next.js in depth</td></tr>
-<tr><td>⬜ Docker</td><td>⬜ Deploy on AWS</td></tr>
-<tr><td>⬜ System Design basics</td><td>⬜ First open-source contribution</td></tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" />
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/prashant-thainua/"><img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:thainuaprashant.pt3@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>"First, solve the problem. Then, write the code." — John Johnson</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+<a href="https://www.linkedin.com/in/prashant-thainua/">LinkedIn</a> · <a href="mailto:thainuaprashant.pt3@gmail.com">Email</a>
 
 </div>
